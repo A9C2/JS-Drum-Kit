@@ -1,0 +1,1 @@
+Created as an exercise for Web Development 101 course on TheOdinProject.com by A9C2
