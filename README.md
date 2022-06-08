@@ -1,1 +1,1 @@
-Created as an exercise for Web Development 101 course on TheOdinProject.com by A9C2
+Created by A9C2 as an exercise for [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
